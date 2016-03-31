@@ -1,6 +1,0 @@
----
-published: true
-title: About Me
-layout: post
----
-I've been playing board games since I was a kid. I've played classic board games, strategy games, collectible card games, Euro games, and ameritrash games. Over the years I've fine-tuned my tastes for tabletop games. As such, this blog is about my experiences with new and old games, and an admittedly biased review of games I play with the intent of being a resource for others to follow. I will also recommend other games that are similar to the game I'm reviewing. If you want to recommend a game I should play and/or review, if you have a question about me or my blog, or just want to tell me how awesome I am then feel free to shoot me an email at reynoldsmcr@gmail.com.
