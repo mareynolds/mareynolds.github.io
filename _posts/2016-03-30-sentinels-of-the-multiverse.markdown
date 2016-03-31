@@ -12,16 +12,16 @@ Sentinels of the Multiverse is a well constructed game that really brings a grou
 Check out the the <a href="https://sentinelsofthemultiverse.com">game's website</a> to learn more about the various expansions, the actual comic book series, and more!
 <br />
 <ul>
-<li>
-<img alt="Sentinels of the Multiverse: Enhanced Edition Box" style="display: inline; width: 223px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ee%20box.png">
-</li>
-<li>
-<img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/rc.png">
-</li>
-<li>
-<img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ir.png">
-</li>
-<li>
-<img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/New%20Shattered%20Timelines%20Box.png">
-</li>
+  <li>
+    <img alt="Sentinels of the Multiverse: Enhanced Edition Box" style="display: inline; width: 223px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ee%20box.png">
+  </li>
+  <li>
+    <img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/rc.png">
+  </li>
+  <li>
+    <img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ir.png">
+  </li>
+  <li>
+    <img alt="Sentinels of the Multiverse: Rook City Box" style="display: inline; width: 359px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/New%20Shattered%20Timelines%20Box.png">
+  </li>
 </ul>
