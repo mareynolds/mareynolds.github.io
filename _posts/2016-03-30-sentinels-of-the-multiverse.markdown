@@ -9,3 +9,4 @@ TLDR
 Sentinels of the Multiverse is a well constructed game that really brings a group of teammates together so that you really feel like a superhero! It is an easy to learn, fun, team-building experience that works for the non-gamer and gamer alike.
 
 Check out the the <a href="https://sentinelsofthemultiverse.com">game's website</a> to learn more about the various expansions, the actual comic book series, and more!
+<img alt="Sentinels of the Multiverse: Enhanced Edition Box" style="display: inline; width: 223px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ee%20box.png">
