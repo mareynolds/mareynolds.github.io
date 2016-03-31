@@ -11,7 +11,7 @@ Sentinels of the Multiverse is a well constructed game that really brings a grou
 
 Check out the the <a href="https://sentinelsofthemultiverse.com">game's website</a> to learn more about the various expansions, the actual comic book series, and more!
 <br />
-<ul>
+<ul style="list-style-type:none">
   <li>
     <img alt="Sentinels of the Multiverse: Enhanced Edition Box" style="display: inline; width: 223px; height: 279px;" src="https://greaterthangames.com/sites/greaterthangames.com/files/store/ee%20box.png">
   </li>
