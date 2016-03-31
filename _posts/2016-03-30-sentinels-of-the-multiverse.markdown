@@ -8,4 +8,4 @@ Sentinels of the Multiverse is a cooperative card game for 1-5 players where a t
 TLDR
 Sentinels of the Multiverse is a well constructed game that really brings a group of teammates together so that you really feel like a superhero! It is an easy to learn, fun, team-building experience that works for the non-gamer and gamer alike.
 
-Check out the the <a href="https://https://sentinelsofthemultiverse.com>game's website</a> to learn more about the various expansions, the actual comic book series, and more!
+Check out the the <a href="https://sentinelsofthemultiverse.com">game's website</a> to learn more about the various expansions, the actual comic book series, and more!
